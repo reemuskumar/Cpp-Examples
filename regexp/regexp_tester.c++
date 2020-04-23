@@ -1,4 +1,4 @@
-// Regular Expression Tester
+// Simple Regular Expression Tester
 #include <iostream>
 #include <regex>
 
